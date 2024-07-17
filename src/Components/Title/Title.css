@@ -1,0 +1,21 @@
+.title {
+    text-align: center;
+    color: #0e0e0e;
+    font-size: 15px;
+    font-weight: 600;
+    text-transform: uppercase;
+    margin: 70px 0 30px;
+    opacity: 0;
+    transition: opacity 0.5s ease-in-out;
+}
+
+.title.visible {
+    opacity: 1;
+}
+
+.title h2 {
+    font-size: 32px;
+    color: #353531;
+    margin-top: 5px;
+    text-transform: none;
+}
