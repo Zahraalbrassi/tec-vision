@@ -1,4 +1,4 @@
-import logo from './logo.svg';
+
 import './App.css';
 import Navbar from './Components/Navbar/Navbar';
 import Title from './Components/Title/Title';
@@ -11,7 +11,7 @@ import Services from './Components/Services/Services';
 import SolarPawer from './Components/SolarPower/SolarPawer';
 import VideoPlayer from './Components/VideoPlayer/VideoPlayer';
 import { useState } from 'react';
-import LanguageToggle from './Components/Language/LanguageToggle';
+
 
 function App() {
   const [playState, setPlayState] = useState(false)
@@ -32,6 +32,7 @@ function App() {
         <Title id="title4" title="MEET OUR STAFF" subtitle='' />
         <Staff />
         <Title id="title5" title="CONTACT US" subtitle="GET IN Touch" />
+
         <Contact />
 
 

@@ -41,10 +41,10 @@ function Contact() {
                 <h3>Send us a massege <img src={msg_icon} alt="" /> </h3>
                 <p>feel free to contact us through kmkm,kl,kl,kklkkm and find out more about what we do </p>
                 <ul>
-                    <li><img src={mail_icon} alt="" /> Contact at geek.dev</li>
+                    <li><img src={mail_icon} alt="" /> Contact at info@techvision.ly</li>
                     <li> <img src={phone_icon} alt="" /> +218-925-500-111</li>
-                    <li> <img src={phone_icon} alt="" /> +218-925-500-111</li>
-                    <li> <img src={phone_icon} alt="" /> +218-925-500-111</li>
+
+
                     <li> <img src={location_icon} alt="" />  Benghazi <br />   in eastern Libya
                     </li>
                 </ul>

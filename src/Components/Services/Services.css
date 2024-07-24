@@ -1,5 +1,5 @@
 .servieces {
-    margin: 80px auto;
+    margin: 0px auto;
     padding: 0 80px;
     position: relative;
 
@@ -16,7 +16,7 @@
     width: 50px;
     border-radius: 50%;
     cursor: pointer;
-    background: #2b2a29;
+    background: #ab2824;
 }
 
 .back-btn {
