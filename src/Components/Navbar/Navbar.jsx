@@ -23,7 +23,7 @@ function Navbar() {
                 <li><Link to='about' smooth={true} offset={-60} duration={500}>Solar</Link></li>
 
 
-                <li><Link to='staff' smooth={true} offset={-260} duration={500}>Our Staff</Link></li>
+                <li><Link to='our__team' smooth={true} offset={-200} duration={500}>Our Team</Link></li>
                 <li><Link to='contact' smooth={true} offset={-260} duration={500} className='btn'> Contect Us </Link></li>
 
             </ul>

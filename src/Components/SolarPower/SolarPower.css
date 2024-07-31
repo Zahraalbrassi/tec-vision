@@ -1,16 +1,6 @@
-.servises h3 {
-    text-align: center;
-    margin-top: 20px;
-}
-
-.servises p {
-    text-align: center;
-    margin-top: 10px;
-}
-
 .solar-power {
-    box-shadow: 0 0 20px rgba(0, 0, 0, 0.05);
-
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.05);
+    padding-top: 10px;
     margin: 80px auto;
     width: 90%;
     display: flex;
@@ -49,11 +39,12 @@
     opacity: 0;
     padding-top: 70%;
     transition: 0.4s;
+    padding-left: 10px;
 }
 
 
 .caption img {
-    width: 60px;
+    width: 50px;
     margin-bottom: 10px;
 }
 
@@ -69,7 +60,7 @@
 
 .solar-power-expanded {
     display: grid;
-    grid-template-columns: repeat(2, 1fr);
+    grid-template-columns: repeat(3, 1fr);
     grid-gap: 20px;
     width: 100%;
 }

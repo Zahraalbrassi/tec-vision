@@ -39,7 +39,7 @@ function Contact() {
         <div className='contact'>
             <div className="contact-col">
                 <h3>Send us a massege <img src={msg_icon} alt="" /> </h3>
-                <p>feel free to contact us through kmkm,kl,kl,kklkkm and find out more about what we do </p>
+                <p>If you have any question feel free to contact us and find out more about what we do  </p>
                 <ul>
                     <li><img src={mail_icon} alt="" /> Contact at info@techvision.ly</li>
                     <li> <img src={phone_icon} alt="" /> +218-925-500-111</li>

@@ -11,6 +11,7 @@ import Services from './Components/Services/Services';
 import SolarPawer from './Components/SolarPower/SolarPawer';
 import VideoPlayer from './Components/VideoPlayer/VideoPlayer';
 import { useState } from 'react';
+import Team1 from './Components/Team/Team1';
 
 
 function App() {
@@ -29,8 +30,8 @@ function App() {
         <Title id="title3" title='What we Offer' />
 
         <SolarPawer />
-        <Title id="title4" title="MEET OUR STAFF" subtitle='' />
-        <Staff />
+        <Title id="title4" title="MEET OUR TEAM" subtitle='' />
+        <Team1 />
         <Title id="title5" title="CONTACT US" subtitle="GET IN Touch" />
 
         <Contact />
