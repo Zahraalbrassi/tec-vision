@@ -45,7 +45,7 @@ function Contact() {
                     <li> <img src={phone_icon} alt="" /> +218-925-500-111</li>
 
 
-                    <li> <img src={location_icon} alt="" />  Benghazi <br />   in eastern Libya
+                    <li> <img src={location_icon} alt="" />  Benghazi <br />   in Eastern Libya
                     </li>
                 </ul>
             </div>
