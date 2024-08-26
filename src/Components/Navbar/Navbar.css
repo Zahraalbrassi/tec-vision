@@ -39,7 +39,7 @@ nav ul li:hover {
 /* @media Query */
 @media (max-width:1000px) {
     .logo {
-        width: 100px;
+        width: 60px;
     }
 
     .nav ul li {
@@ -48,8 +48,13 @@ nav ul li:hover {
 }
 
 @media (max-width:840px) {
+    .logo {
+        width: 60px;
+    }
+
     nav {
         padding: 15px 0;
+        height: 90px;
     }
 
     nav ul {
